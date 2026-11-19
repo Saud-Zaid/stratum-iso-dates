@@ -1,0 +1,9 @@
+{
+  "id": "stratum-iso-dates",
+  "name": "Stratum ISO Dates",
+  "version": "0.1.0",
+  "minAppVersion": "1.13.7",
+  "description": "Writes dates with ASCII digits (2026-11-19) when the interface language prints Arabic-Indic or Persian digits.",
+  "author": "Saud Zaid",
+  "isDesktopOnly": false
+}
